@@ -1,0 +1,24 @@
+{
+  "name": "brayden-package-manager",
+  "version": "1.0.0",
+  "description": "this is a project for managing packages",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BraydenGray416/packageManager.git"
+  },
+  "author": "Brayden Gray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BraydenGray416/packageManager/issues"
+  },
+  "homepage": "https://github.com/BraydenGray416/packageManager#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}
